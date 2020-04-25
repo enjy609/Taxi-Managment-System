@@ -1,0 +1,9 @@
+11 3 wahaa aswan 8 12 2018 500
+12 4 helioplis gouna 14 12 2018 1000
+12 4 gona wa7a 26 12 2018 13
+12 2 tagmo3 ainshams 26 12 2018 1
+12 2 nasr tagmo3 27 12 2018 30
+12 2 nasr tagmo 27 12 2018 6
+13 5 nasrcity newcairo 15 12 2018 80
+14 2 cairo alexandria 7 12 2018 100
+15 6 newcairo nasrcity 16 12 2018 90
